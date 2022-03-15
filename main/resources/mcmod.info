@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "lindasmod",
+    "name": "Lindasmod",
+    "description": "All recipes off my own Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "WupsiPupsi"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
